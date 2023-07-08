@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: 100vh;
+}
+
+.div_text {
+  position: fixed;
+  top: 20%;
+  left: 45%;
+}
+
+h1 {
+  color: grey;
+  font-size: 50pt;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
