@@ -1,5 +1,5 @@
 # Webd Mini Projects
-This repository contains projects created using HTML, CSS & Javascript
+This repository list WebD projects created using HTML, CSS & Javascript
 
 | | Project                   | Live Link |
 |-|---------------------------|-----------|
